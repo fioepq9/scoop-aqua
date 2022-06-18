@@ -9,6 +9,13 @@ How do I install these manifests?
 
 To add this bucket, run `scoop bucket add scoop-aqua https://github.com/fioepq9/scoop-aqua`. To install, do `scoop install <manifest>`.
 
+app list
+---------------------------------
+
+| **app name** | **version** |
+| :----------: | :---------: |
+|    typora    |   0.11.18   |
+
 How do I contribute new manifests?
 ----------------------------------
 
